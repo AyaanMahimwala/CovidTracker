@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## CovidTracker
-CovidTracker is a web application using ReactJS, making use of the Material UI Framework. This project is an adaption from online youtube tutorial series, with my own architectural tweaks made within the project.  
+CovidTracker is a web application using ReactJS, making use of the Material UI Framework. This project is an adaption from online youtube tutorial series, with my own architectural tweaks made within the project. Note: This project was completed May 23, 2020 but only recently pushed onto GitHub. 
 
 ### Landing Page
 
